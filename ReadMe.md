@@ -1,4 +1,5 @@
-mvn gatling:test '-Dgatling.simulationClass=basic.Simple'
+Базовый Maven проект
 
+Пускачь для SimpleJsonApi
 
-mvn gatling:test '-Dgatling.includes=demo.simple*'
+mvn gatling:test '-Dgatling.includes=demo.simple.json*'
